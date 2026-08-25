@@ -835,11 +835,9 @@ function StatusBar() {
         <span className="w-1.5 h-1.5 rounded-full bg-pos inline-block" /> Refresh OK
       </span>
       <div className="ml-auto hidden lg:flex items-center gap-3 shrink-0">
-        <span>Air University · Rawalpindi</span>
-        <span>·</span>
-        <span>Dr. Qurat-ul-Ain</span>
+        <span>Urwa Qureshi · Maira · Fatima Bukhari</span>
       </div>
-      <span className="ml-auto lg:hidden truncate text-right">Air University</span>
+      <span className="ml-auto lg:hidden truncate text-right">Urwa Qureshi · Maira · Fatima Bukhari</span>
     </footer>
   );
 }
