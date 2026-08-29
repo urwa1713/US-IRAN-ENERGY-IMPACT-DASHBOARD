@@ -155,14 +155,6 @@ This project demonstrates practical application of:
 
 ### 📊 Data Visualization
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-
-- Power BI
-- Interactive charts
-- KPI cards
-- Filters
-- Slicers
-- Time-series visualizations
 
 ### 💻 Development / Deployment
 
