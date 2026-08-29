@@ -1,0 +1,111 @@
+date,headline,event_type,vader_compound,conflict_intensity_score
+2015-07-14,Iran and world powers reach historic nuclear deal JCPOA agreement,Diplomatic,0.5106,0.5106
+2015-09-01,Iran releases four US citizens as part of prisoner exchange negotiations,Diplomatic,-0.5423,0.5423
+2016-01-12,Iran captures ten US Navy sailors after boats enter Iranian waters,Military,0.0,0.1
+2016-01-16,Iran releases US Navy sailors one day after detention,Diplomatic,-0.3612,0.3612
+2016-01-17,Iran nuclear deal implemented sanctions lifted international inspections begin,Diplomatic,0.0,0.0
+2016-09-21,US Senate passes Iran sanctions act renewal extending restrictions,Sanctions,0.0,0.1
+2017-01-13,Trump administration warns Iran over ballistic missile test puts on notice,Diplomatic,-0.1027,0.1027
+2017-02-03,US imposes new sanctions on Iran following ballistic missile test,Sanctions,-0.1027,0.2027
+2017-05-19,Hassan Rouhani wins re-election in Iran presidential election,Diplomatic,0.5719,0.5719
+2017-10-13,Trump decertifies Iran nuclear deal threatens to withdraw from JCPOA,Diplomatic,-0.3818,0.3818
+2017-12-14,US imposes additional sanctions on Iran for missile program violations,Sanctions,-0.5859,0.6859
+2018-01-12,Trump waives Iran nuclear sanctions but warns it is last time,Sanctions,-0.1531,0.2531
+2018-05-08,Trump withdraws United States from Iran nuclear deal JCPOA agreement,Diplomatic,0.7184,0.7184
+2018-06-27,US State Department demands all countries stop buying Iranian oil,Sanctions,-0.296,0.396
+2018-08-06,US reimposed first round of sanctions on Iran targeting metals and currency,Sanctions,0.0,0.1
+2018-09-25,Trump calls Iran a corrupt dictatorship in UN General Assembly speech,Diplomatic,0.0,0.0
+2018-11-05,US reimposed oil sanctions on Iran targeting petroleum exports globally,Sanctions,0.0,0.1
+2019-01-31,US charges Huawei with violating Iran sanctions in federal indictment,Sanctions,-0.6808,0.7808
+2019-04-08,US designates Iran Revolutionary Guard Corps as foreign terrorist organization,Military,-0.6908,0.7908
+2019-04-22,US ends sanctions waivers forcing all countries to stop buying Iranian oil,Sanctions,-0.296,0.396
+2019-05-05,US deploys aircraft carrier strike group to Middle East amid Iran tensions,Military,-0.4939,0.5939
+2019-05-08,Iran announces partial withdrawal from nuclear deal commitments obligations,Diplomatic,0.1531,0.1531
+2019-05-12,Four oil tankers attacked near UAE port Fujairah blamed on Iran,Military,-0.7269,0.8269
+2019-06-13,Two oil tankers attacked in Gulf of Oman US blames Iran for strikes,Military,-0.802,0.902
+2019-06-20,Iran shoots down US surveillance drone over Strait of Hormuz airspace,Military,0.0,0.1
+2019-06-21,Trump cancels retaliatory military strike on Iran at last minute,Military,-0.34,0.44
+2019-06-24,US imposes sanctions directly targeting Iranian Supreme Leader Khamenei,Sanctions,0.4939,0.5939
+2019-07-04,UK seizes Iranian oil tanker Grace One in Gibraltar for sanctions violations,Sanctions,-0.1531,0.2531
+2019-07-18,US military destroys Iranian drone in Strait of Hormuz waters,Military,-0.5574,0.6574
+2019-07-19,Iran seizes British oil tanker Stena Impero in Persian Gulf waters,Military,0.0,0.1
+2019-09-14,Drone and missile attacks hit Saudi Aramco oil facilities blamed on Iran,Military,-0.7184,0.8184
+2019-09-20,US announces additional sanctions against Iran central bank treasury,Sanctions,0.2023,0.3023
+2019-11-05,Iran breaches nuclear deal limits by enriching uranium beyond agreed levels,Diplomatic,0.2732,0.2732
+2019-11-15,Iran announces major new oil field discovery of 53 billion barrels reserves,Diplomatic,0.0,0.0
+2019-12-27,Iran-backed militia kills US contractor in rocket attack in Iraq,Military,-0.765,0.865
+2019-12-29,US conducts airstrikes against Iran-backed Kataib Hezbollah militia Iraq,Military,0.0,0.1
+2019-12-31,Iran-backed protesters storm US embassy compound in Baghdad Iraq,Military,-0.2263,0.3263
+2020-01-03,US kills Iranian General Qasem Soleimani in drone strike at Baghdad airport,Military,-0.6124,0.7124
+2020-01-05,Iran announces it will no longer observe limits of nuclear deal agreement,Diplomatic,0.25,0.25
+2020-01-08,Iran launches ballistic missile strikes on US military bases in Iraq,Military,-0.3612,0.4612
+2020-01-11,Iran accidentally shoots down Ukrainian passenger jet killing 176 people,Military,-0.7783,0.8783
+2020-01-22,US imposes new round of sanctions on Iran targeting construction metals,Sanctions,-0.1027,0.2027
+2020-02-20,US imposes sanctions on companies supplying Iran with raw materials,Sanctions,-0.1027,0.2027
+2020-04-22,US warns Iran after Iranian boats harass US Navy ships in Persian Gulf,Military,-0.5574,0.6574
+2020-05-13,US extends some Iran nuclear sanctions waivers for 60 additional days,Sanctions,0.128,0.228
+2020-06-01,Iran sentences journalist to prison for coverage of Soleimani assassination protests,Diplomatic,-0.836,0.836
+2020-07-07,US imposes sanctions on Iran over human rights abuses during protests,Sanctions,-0.7096,0.8096
+2020-09-19,US unilaterally attempts to restore all UN sanctions on Iran snapback,Sanctions,0.296,0.396
+2020-10-08,US imposes sweeping new sanctions on Iranian financial sector and banks,Sanctions,-0.1027,0.2027
+2020-11-27,Iranian nuclear scientist Mohsen Fakhrizadeh assassinated near Tehran Iran,Military,0.0,0.1
+2021-01-04,Iran seizes South Korean oil tanker over unpaid debts in Persian Gulf,Military,0.0,0.1
+2021-01-13,US imposes last minute sanctions on Iran steel and iron sectors,Sanctions,-0.1027,0.2027
+2021-02-18,Biden administration offers to resume nuclear talks with Iran JCPOA,Diplomatic,0.0,0.0
+2021-04-06,Iran and world powers begin indirect nuclear talks in Vienna Austria,Diplomatic,0.0,0.0
+2021-04-11,Iran blames Israel for sabotage attack on Natanz nuclear facility centrifuges,Military,-0.8481,0.9481
+2021-06-18,Ebrahim Raisi hardliner wins Iranian presidential election landslide victory,Diplomatic,0.5719,0.5719
+2021-08-29,Iran-backed drone attack on US base in Syria kills no one but escalates tensions,Military,-0.8151,0.9151
+2021-11-29,Nuclear talks resume in Vienna amid growing tensions over Iran enrichment,Diplomatic,-0.25,0.25
+2022-01-20,Nuclear deal talks stall as Iran demands all sanctions lifted immediately,Diplomatic,-0.2023,0.2023
+2022-02-26,Iran enriching uranium to 20 percent purity at underground Fordow facility,Diplomatic,0.0,0.0
+2022-03-22,Iran launches missile attack on US consulate in Erbil Iraq with ballistic missiles,Military,-0.4767,0.5767
+2022-05-25,Nuclear deal talks in Vienna collapse as Iran rejects US offers conditions,Diplomatic,-0.7506,0.7506
+2022-07-15,Biden visits Middle East pledges continued pressure on Iran nuclear program,Diplomatic,-0.296,0.296
+2022-08-09,US Treasury sanctions Iran for selling oil to China bypassing restrictions,Sanctions,0.2023,0.3023
+2022-09-16,Mahsa Amini dies in Iranian police custody sparking nationwide protests,Diplomatic,-0.2263,0.2263
+2022-10-17,US imposes sanctions on Iranian officials over violent crackdown on protesters,Sanctions,-0.7351,0.8351
+2022-11-14,Iran supplies Russia with Shahed drones for use in Ukraine war conflict,Military,-0.7351,0.8351
+2023-01-27,US and allies impose new sanctions on Iran over drone supplies to Russia,Sanctions,-0.296,0.396
+2023-03-10,Iran and Saudi Arabia agree to restore diplomatic relations brokered by China,Diplomatic,0.5719,0.5719
+2023-05-11,Iranian navy seizes two oil tankers in Gulf of Oman in separate incidents,Military,0.0,0.1
+2023-07-03,US intercepts Iranian attempt to seize oil tanker in Gulf of Oman waters,Military,0.0,0.1
+2023-08-10,US and Iran reach prisoner swap deal releasing five Americans held in Iran,Diplomatic,-0.5267,0.5267
+2023-09-18,US unfreezes six billion dollars in Iranian assets as part of prisoner deal,Sanctions,-0.4215,0.5215
+2023-10-07,Hamas attacks Israel Iran praised assault US warns Iran not to escalate,Military,-0.5994,0.6994
+2023-10-17,US deploys second aircraft carrier to Middle East amid Iran escalation fears,Military,-0.4215,0.5215
+2023-10-26,US conducts airstrikes on Iran-linked facilities in Syria in retaliation,Military,0.0,0.1
+2023-11-14,US imposes new oil sanctions on Iran for funding Hamas and Hezbollah,Sanctions,-0.1027,0.2027
+2023-12-03,Houthi rebels backed by Iran attack commercial shipping in Red Sea routes,Military,-0.5859,0.6859
+2024-01-02,Deadly explosion at memorial for Soleimani in Kerman Iran kills 84 people,Military,-0.5423,0.6423
+2024-01-11,US and UK launch strikes against Houthi targets in Yemen amid Red Sea crisis,Military,-0.765,0.865
+2024-01-20,Iran fires missiles into Iraq Syria and Pakistan in separate strikes,Military,-0.3612,0.4612
+2024-02-02,US launches major strikes on Iran-backed militia targets in Iraq and Syria,Military,-0.4201,0.5201
+2024-04-01,Israel strikes Iranian consulate in Damascus Syria killing seven IRGC commanders,Military,-0.7845,0.8845
+2024-04-13,Iran launches unprecedented direct attack on Israel with drones and missiles,Military,-0.4767,0.5767
+2024-04-19,Israel carries out limited retaliatory strike on Iran near Isfahan province,Military,-0.34,0.44
+2024-05-19,Iranian President Raisi killed in helicopter crash in northwestern Iran,Diplomatic,-0.802,0.802
+2024-06-28,Masoud Pezeshkian reformist wins Iranian presidential election in runoff,Diplomatic,0.5719,0.5719
+2024-07-31,Hamas political leader Ismail Haniyeh assassinated in Tehran blamed on Israel,Military,-0.4767,0.5767
+2024-09-26,US announces new Iran sanctions targeting oil revenue and petrochemical sector,Sanctions,0.0,0.1
+2024-10-01,Iran fires approximately 200 ballistic missiles at Israel in major escalation,Military,0.0,0.1
+2024-10-26,Israel launches massive retaliatory airstrikes on Iranian military targets,Military,0.0,0.1
+2024-11-05,Trump wins US presidential election vowing maximum pressure on Iran again,Diplomatic,0.3612,0.3612
+2024-12-04,Trump nominates Iran hawks for key national security positions in cabinet,Diplomatic,0.34,0.34
+2025-01-20,Trump reinstates maximum pressure campaign against Iran on first day in office,Sanctions,-0.296,0.396
+2025-02-04,US imposes sweeping new oil sanctions on Iran targeting shipping networks,Sanctions,-0.1027,0.2027
+2025-03-15,Iran and US hold indirect nuclear talks in Oman amid rising tensions,Diplomatic,-0.4019,0.4019
+2025-04-12,Iran enriches uranium to 60 percent purity highest level ever recorded,Diplomatic,0.0,0.0
+2025-05-23,US and Iran hold direct nuclear negotiations in Rome for first time in years,Diplomatic,0.0,0.0
+2025-07-14,US imposes new round of sanctions on Iran oil exports and shipping firms,Sanctions,-0.1027,0.2027
+2025-09-01,Iran announces new missile capable of reaching all US bases in Middle East,Military,0.5267,0.6267
+2025-10-22,US naval forces intercept Iranian weapons shipment headed to Houthi rebels,Military,-0.5719,0.6719
+2025-12-01,Iran threatens to close Strait of Hormuz if oil sanctions tighten further,Military,-0.3818,0.4818
+2026-01-15,US imposes harshest ever oil sanctions on Iran targeting all petroleum exports,Sanctions,-0.6486,0.7486
+2026-02-08,US conducts airstrikes on Iranian nuclear infrastructure in major escalation,Military,0.0,0.1
+2026-02-14,Iran launches retaliatory missile strikes on US military bases in the region,Military,-0.3612,0.4612
+2026-03-01,Iran declares partial naval blockade of Strait of Hormuz oil transit route,Military,0.0,0.1
+2026-03-12,Global oil prices surge past 120 dollars per barrel amid Hormuz crisis fears,Military,-0.7845,0.8845
+2026-04-02,Pakistan raises domestic petrol price by Rs 137 per litre due to oil shock,Diplomatic,-0.3818,0.3818
+2026-04-15,US and Iran hold emergency diplomatic talks in Islamabad mediated by Pakistan,Diplomatic,-0.3818,0.3818
+2026-05-01,Partial ceasefire agreed US suspends some Iran sanctions temporarily,Diplomatic,0.2732,0.2732
